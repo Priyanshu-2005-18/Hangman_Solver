@@ -13,10 +13,13 @@ A web-based Hangman game built using Flask in Python. The game selects random En
 
 ## Demo
 
-![Hangman Game Screenshot](screenshot.png)
+
 <img width="1920" height="1080" alt="Screenshot 2025-11-01 171411" src="https://github.com/user-attachments/assets/7a56556a-ef6c-4d90-8fa6-cd99d40565f6" />
+
 <img width="1920" height="1080" alt="Screenshot 2025-11-01 171447" src="https://github.com/user-attachments/assets/61dcaa74-6a1a-415b-b511-32b92ffceb78" />
+
 <img width="1920" height="1080" alt="Screenshot 2025-11-01 171603" src="https://github.com/user-attachments/assets/930bea0e-8281-4429-bab8-f5427b04cbf7" />
+
 <img width="1920" height="1080" alt="Screenshot 2025-11-01 171717" src="https://github.com/user-attachments/assets/51888da1-cc6c-4bb0-853e-8292a12cf7be" />
 
 
