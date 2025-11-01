@@ -34,11 +34,10 @@ Perfect for boosting vocabulary and having fun. 🚀
     <th>Wrong Guesses</th>
   </tr>
   <tr>
-    <td><a href="FULL_SIZE_IMAGE_URL_1"><img src="<img width="1102" height="396" alt="Screenshot 2025-11-01 171411" src="https://github.com/user-attachments/assets/35745a5b-cf2a-4516-a9b1-fd7738a9016c" />
-" alt="Easy Mode" width="300"></a></td>
-    <td><a href="FULL_SIZE_IMAGE_URL_2"><img src="THUMBNAIL_IMAGE_URL_2" alt="Example Hint" width="300"></a></td>
-    <td><a href="FULL_SIZE_IMAGE_URL_3"><img src="THUMBNAIL_IMAGE_URL_3" alt="Victory" width="300"></a></td>
-    <td><a href="FULL_SIZE_IMAGE_URL_4"><img src="THUMBNAIL_IMAGE_URL_4" alt="Wrong Guesses" width="300"></a></td>
+    <td><img src="https://github.com/<yourusername>/<yourrepo>/raw/main/screenshots/Screenshot-2025-11-01-171411.jpg" alt="Easy Mode" width="320"></td>
+    <td><img src="https://github.com/<yourusername>/<yourrepo>/raw/main/screenshots/Screenshot-2025-11-01-171447.jpg" alt="Example Hint" width="320"></td>
+    <td><img src="https://github.com/<yourusername>/<yourrepo>/raw/main/screenshots/Screenshot-2025-11-01-171603.jpg" alt="Victory" width="320"></td>
+    <td><img src="https://github.com/<yourusername>/<yourrepo>/raw/main/screenshots/Screenshot-2025-11-01-171717.jpg" alt="Wrong Guesses" width="320"></td>
   </tr>
 </table>
 ---
