@@ -52,15 +52,19 @@ Perfect for boosting vocabulary and having fun. 🚀
 ### 1. Clone the Repository
 
 git clone https://github.com/Priyanshu-2005-18/Hangman_Solver.git
+
 cd Hangman_Solver
 
 ### 2. (Optional) Create and Activate a Virtual Environment
 
 python -m venv venv
+
 On Windows:
+
 venv\Scripts\activate
 
 On Linux/Mac:
+
 source venv/bin/activate
 
 ### 3. Install Required Packages
@@ -71,7 +75,9 @@ pip install flask nltk
 ### 4. Download NLTK Data (if not done automatically):
 
 import nltk
+
 nltk.download('words')
+
 nltk.download('wordnet')
 
 You can run these commands in a Python shell (`python`) or IPython.
