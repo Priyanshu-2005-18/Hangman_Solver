@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Select Difficulty - Hangman</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 50px;
+      background: linear-gradient(135deg, #74ebd5, #ACB6E5);
+      color: #333;
+    }
+    h1 { font-size: 40px; }
+    form { margin-top: 40px; }
+    button {
+      background: #222;
+      color: white;
+      border: none;
+      margin: 10px;
+      padding: 15px 40px;
+      font-size: 20px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    button:hover { background: #444; }
+  </style>
+</head>
+<body>
+  <h1>🎯 Choose Difficulty Level</h1>
+  <form action="/set_level" method="POST">
+    <button name="level" value="easy">🟢 Easy</button>
+    <button name="level" value="medium">🟡 Medium</button>
+    <button name="level" value="hard">🔴 Hard</button>
+  </form>
+</body>
+</html>

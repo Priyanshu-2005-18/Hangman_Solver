@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hangman Game</title>
+  <style>
+    body {
+      background: #f4f4f9;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 30px;
+    }
+    pre {
+      background: #222;
+      color: #0f0;
+      display: inline-block;
+      padding: 10px 20px;
+      border-radius: 10px;
+      font-size: 18px;
+    }
+    .word {
+      font-size: 30px;
+      letter-spacing: 10px;
+      margin: 20px;
+    }
+    input[type=text] {
+      padding: 8px;
+      font-size: 18px;
+      width: 50px;
+      text-align: center;
+    }
+    button {
+      background: #007bff;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #0056b3;
+    }
+    .hint {
+      font-size: 18px;
+      margin: 15px;
+      color: #333;
+    }
+    .message {
+      font-size: 20px;
+      margin-top: 20px;
+      color: darkred;
+    }
+    .level {
+      font-weight: bold;
+      color: darkblue;
+    }
+  </style>
+</head>
+<body>
+  <h1>🪓 Hangman - <span class="level">{{ level|capitalize }}</span> Mode</h1>
+
+  <pre>{{ stage }}</pre>
+
+  <div class="word">{{ display_word }}</div>
+  <div>Guesses: {{ guesses|join(', ') }}</div>
+  <div>Turns left: {{ turns }}</div>
+  <div class="hint">💡 Hint: {{ hint }}</div>
+
+  {% if not message or "Win" not in message and "Lose" not in message %}
+  <form method="POST">
+    <input type="text" name="guess" maxlength="1" autofocus required>
+    <button type="submit">Guess</button>
+  </form>
+  {% endif %}
+
+  <div class="message">{{ message }}</div>
+
+  {% if "Win" in message or "Lose" in message %}
+  <a href="{{ url_for('reset') }}"><button>Play Again</button></a>
+  {% endif %}
+</body>
+</html>
