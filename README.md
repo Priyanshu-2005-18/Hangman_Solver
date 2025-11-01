@@ -102,4 +102,5 @@ MIT License — Free to use and extend!
 ## 👤 Author & Contact
 
 Made with ❤️ by Priyanshu-2005-18 
+
 Questions? Connect via [GitHub Issues](https://github.com/Priyanshu-2005-18/hangman-flask-nltk/issues) 
