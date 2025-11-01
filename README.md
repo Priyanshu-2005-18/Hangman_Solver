@@ -49,19 +49,44 @@ Perfect for boosting vocabulary and having fun. 🚀
 
 ## 🏁 Getting Started
 
-Clone and run locally:
+### 1. Clone the Repository
 
-git clone https://github.com/Priyanshu-2005-18/hangman-flask-nltk.git
-cd hangman-flask-nltk
+git clone https://github.com/Priyanshu-2005-18/Hangman_Solver.git
+cd Hangman_Solver
+
+### 2. (Optional) Create and Activate a Virtual Environment
+
 python -m venv venv
-source venv/bin/activate # On Windows: venv\Scripts\activate
+On Windows:
+venv\Scripts\activate
+
+On Linux/Mac:
+source venv/bin/activate
+
+### 3. Install Required Packages
+
 pip install flask nltk
+
+
+### 4. Download NLTK Data (if not done automatically):
+
+import nltk
+nltk.download('words')
+nltk.download('wordnet')
+
+You can run these commands in a Python shell (`python`) or IPython.
+
+### 5. Run the Application
+
 python app.py
 
 
-Open [localhost:5000](http://127.0.0.1:5000/) in your browser!
+### 6. Open Your Browser
+
+Go to [http://127.0.0.1:5000/](http://127.0.0.1:5000/) to play the game!
 
 ---
+
 
 ## 📦 Project Structure
 
