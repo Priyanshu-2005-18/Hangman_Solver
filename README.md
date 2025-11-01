@@ -26,10 +26,20 @@ Perfect for boosting vocabulary and having fun. 🚀
 
 ## 🚀 Live Demo
 
-| Easy Mode | Example Hint | Victory | Wrong Guesses |
-|:--:|:--:|:--:|:--:|
-| <img src="https://github.com/user-attachments/assets/7a56556a-ef6c-4d90-8fa6-cd99d40565f6" width="350"> | <img src="https://github.com/user-attachments/assets/61dcaa74-6a1a-415b-b511-32b92ffceb78" width="350"> | <img src="https://github.com/user-attachments/assets/930bea0e-8281-4429-bab8-f5427b04cbf7" width="350"> | <img src="https://github.com/user-attachments/assets/51888da1-cc6c-4bb0-853e-8292a12cf7be" width="350"> |
-
+<table>
+  <tr>
+    <th>Easy Mode</th>
+    <th>Example Hint</th>
+    <th>Victory</th>
+    <th>Wrong Guesses</th>
+  </tr>
+  <tr>
+    <td><a href="FULL_SIZE_IMAGE_URL_1"><img src="THUMBNAIL_IMAGE_URL_1" alt="Easy Mode" width="300"></a></td>
+    <td><a href="FULL_SIZE_IMAGE_URL_2"><img src="THUMBNAIL_IMAGE_URL_2" alt="Example Hint" width="300"></a></td>
+    <td><a href="FULL_SIZE_IMAGE_URL_3"><img src="THUMBNAIL_IMAGE_URL_3" alt="Victory" width="300"></a></td>
+    <td><a href="FULL_SIZE_IMAGE_URL_4"><img src="THUMBNAIL_IMAGE_URL_4" alt="Wrong Guesses" width="300"></a></td>
+  </tr>
+</table>
 ---
 
 ## 🏁 Getting Started
