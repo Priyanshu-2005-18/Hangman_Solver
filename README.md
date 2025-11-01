@@ -59,11 +59,11 @@ cd Hangman_Solver
 
 python -m venv venv
 
-On Windows:
+**On Windows:**
 
 venv\Scripts\activate
 
-On Linux/Mac:
+**On Linux/Mac:**
 
 source venv/bin/activate
 
