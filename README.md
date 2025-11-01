@@ -34,12 +34,13 @@ Perfect for boosting vocabulary and having fun. 🚀
     <th>Wrong Guesses</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/<yourusername>/<yourrepo>/raw/main/screenshots/Screenshot-2025-11-01-171411.jpg" alt="Easy Mode" width="320"></td>
-    <td><img src="https://github.com/<yourusername>/<yourrepo>/raw/main/screenshots/Screenshot-2025-11-01-171447.jpg" alt="Example Hint" width="320"></td>
-    <td><img src="https://github.com/<yourusername>/<yourrepo>/raw/main/screenshots/Screenshot-2025-11-01-171603.jpg" alt="Victory" width="320"></td>
-    <td><img src="https://github.com/<yourusername>/<yourrepo>/raw/main/screenshots/Screenshot-2025-11-01-171717.jpg" alt="Wrong Guesses" width="320"></td>
+    <td><img src="https://raw.githubusercontent.com/<yourusername>/<yourrepo>/main/screenshots/Screenshot-2025-11-01-171411.jpg" alt="Easy Mode" width="320"></td>
+    <td><img src="https://raw.githubusercontent.com/<yourusername>/<yourrepo>/main/screenshots/Screenshot-2025-11-01-171447.jpg" alt="Example Hint" width="320"></td>
+    <td><img src="https://raw.githubusercontent.com/<yourusername>/<yourrepo>/main/screenshots/Screenshot-2025-11-01-171603.jpg" alt="Victory" width="320"></td>
+    <td><img src="https://raw.githubusercontent.com/<yourusername>/<yourrepo>/main/screenshots/Screenshot-2025-11-01-171717.jpg" alt="Wrong Guesses" width="320"></td>
   </tr>
 </table>
+
 ---
 
 ## 🏁 Getting Started
