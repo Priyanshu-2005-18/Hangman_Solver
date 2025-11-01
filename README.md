@@ -64,7 +64,6 @@ Open [localhost:5000](http://127.0.0.1:5000/) in your browser!
 ---
 
 ## 📦 Project Structure
-
 hangman-flask-nltk/
 │
 ├── app.py # Main Flask app
@@ -73,8 +72,6 @@ hangman-flask-nltk/
 │ └── level.html # Level selection
 ├── static/ # Optional: styles/images
 └── README.md # This file
-undefined
-
 ---
 
 ## 🛠️ Customization
