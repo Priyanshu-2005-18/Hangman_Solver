@@ -30,7 +30,7 @@ Perfect for boosting vocabulary and having fun. 🚀
 
 ![Easy Mode](https://github.com/Priyanshu-2005-18/Hangman_Solver/raw/main/Screenshot/Screenshot%202025-11-01%20171411.png)
 
-**Example **
+**Example**
 
 ![Example Hint](https://github.com/Priyanshu-2005-18/Hangman_Solver/raw/main/Screenshot/Screenshot%202025-11-01%20171447.png)
 
