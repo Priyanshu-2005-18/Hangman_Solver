@@ -26,20 +26,22 @@ Perfect for boosting vocabulary and having fun. 🚀
 
 ## 🚀 Live Demo
 
-<table>
-  <tr>
-    <th>Easy Mode</th>
-    <th>Example Hint</th>
-    <th>Victory</th>
-    <th>Wrong Guesses</th>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Priyanshu-2005-18/Hangman_Solver/raw/main/Screenshot/Screenshot%202025-11-01%20171411.png" alt="Easy Mode" width="800"></td>
-    <td><img src="https://github.com/Priyanshu-2005-18/Hangman_Solver/raw/main/Screenshot/Screenshot%202025-11-01%20171447.png" alt="Example Hint" width="800"></td>
-    <td><img src="https://github.com/Priyanshu-2005-18/Hangman_Solver/raw/main/Screenshot/Screenshot%202025-11-01%20171603.png" alt="Victory" width="800"></td>
-    <td><img src="https://github.com/Priyanshu-2005-18/Hangman_Solver/raw/main/Screenshot/Screenshot%202025-11-01%20171717.png" alt="Wrong Guesses" width="800"></td>
-  </tr>
-</table>
+**Easy Mode**
+
+![Easy Mode](https://github.com/Priyanshu-2005-18/Hangman_Solver/raw/main/Screenshot/Screenshot%202025-11-01%20171411.png)
+
+**Example Hint**
+
+![Example Hint](https://github.com/Priyanshu-2005-18/Hangman_Solver/raw/main/Screenshot/Screenshot%202025-11-01%20171447.png)
+
+**Victory**
+
+![Victory](https://github.com/Priyanshu-2005-18/Hangman_Solver/raw/main/Screenshot/Screenshot%202025-11-01%20171603.png)
+
+**Wrong Guesses**
+
+![Wrong Guesses](https://github.com/Priyanshu-2005-18/Hangman_Solver/raw/main/Screenshot/Screenshot%202025-11-01%20171717.png)
+
 
 
 
